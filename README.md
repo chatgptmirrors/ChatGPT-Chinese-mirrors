@@ -19,7 +19,7 @@
 - [https://www.yixiaai.com/](https://www.yixiaai.com/) - 支持 GPT4、4o 以及 o1，支持 MJ 绘画
 - [https://chat.lify.vip/](https://chat.lify.vip/) - 支持 GPT4、4o 以及 o1
 - [https://guide1.lanjing.ai/](https://guide1.lanjing.ai/) - 支持 GPT4、4o
-- [https://cgn.lify.vip/]([https://guide1.lanjing.ai](https://cgn.lify.vip)/) - 支持 GPT4、4o 支持 MJ 绘画
+- [https://cgn.lify.vip/](https://cgn.lify.vip)/)- 支持 GPT4、4o 支持 MJ 绘画
 - [http://chat.forwardminded.xyz/](http://chat.forwardminded.xyz/)
 - [https://ssgpt.chat/](https://ssgpt.chat/) 
 - [https://gezhe.com/](https://gezhe.com/) 
