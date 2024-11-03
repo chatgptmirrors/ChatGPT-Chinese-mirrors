@@ -1,4 +1,4 @@
-# 国内 ChatGPT国内中文版镜像网站整理（2024/11/01）
+# 国内 ChatGPT国内中文版镜像网站整理（2024/11/03）
 
 ## 介绍
 在本仓库中，我们汇总整理了多个国内 ChatGPT-4 中文版镜像网站，帮助用户在正常网络下也能访问 GPT。
@@ -14,7 +14,7 @@ ChatGPT 镜像站的用途 镜像站（Mirror Site）是指通过复制原始网
 ### 免责声明
 请注意，以下所有链接和资源均为外部网站，我们不对其内容的合法性、安全性及稳定性负责。用户需自行判断其风险并酌情访问。请确保在使用这些网站时遵守相关法律法规。
 
-## 国内 ChatGPT 中文版镜像资源(Update 2024/10/31)
+## 国内 ChatGPT 中文版镜像资源(Update 2024/11/3)
 
 - [https://www.yixiaai.com/](https://www.yixiaai.com/) - 支持 GPT4、4o 以及 o1，支持 MJ 绘画
 - [https://chat.lify.vip/](https://chat.lify.vip/) - 支持 GPT4、4o 以及 o1
